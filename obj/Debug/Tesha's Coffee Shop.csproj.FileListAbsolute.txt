@@ -1,0 +1,24 @@
+D:\COMPUTER SCIENCE\PD\Tesha's Coffee Shop\Tesha's Coffee Shop\bin\Debug\Tesha's Coffee Shop.exe.config
+D:\COMPUTER SCIENCE\PD\Tesha's Coffee Shop\Tesha's Coffee Shop\bin\Debug\Tesha's Coffee Shop.exe
+D:\COMPUTER SCIENCE\PD\Tesha's Coffee Shop\Tesha's Coffee Shop\bin\Debug\Tesha's Coffee Shop.pdb
+D:\COMPUTER SCIENCE\PD\Tesha's Coffee Shop\Tesha's Coffee Shop\obj\Debug\Tesha's Coffee Shop.csproj.AssemblyReference.cache
+D:\COMPUTER SCIENCE\PD\Tesha's Coffee Shop\Tesha's Coffee Shop\obj\Debug\Tesha's Coffee Shop.csproj.SuggestedBindingRedirects.cache
+D:\COMPUTER SCIENCE\PD\Tesha's Coffee Shop\Tesha's Coffee Shop\obj\Debug\Tesha's Coffee Shop.csproj.CoreCompileInputs.cache
+D:\COMPUTER SCIENCE\PD\Tesha's Coffee Shop\Tesha's Coffee Shop\obj\Debug\Tesha's Coffee Shop.exe
+D:\COMPUTER SCIENCE\PD\Tesha's Coffee Shop\Tesha's Coffee Shop\obj\Debug\Tesha's Coffee Shop.pdb
+D:\COMPUTER SCIENCE\PD\Done\Tesha's Coffee Shop\bin\Debug\Tesha's Coffee Shop.exe.config
+D:\COMPUTER SCIENCE\PD\Done\Tesha's Coffee Shop\bin\Debug\Tesha's Coffee Shop.exe
+D:\COMPUTER SCIENCE\PD\Done\Tesha's Coffee Shop\bin\Debug\Tesha's Coffee Shop.pdb
+D:\COMPUTER SCIENCE\PD\Done\Tesha's Coffee Shop\obj\Debug\Tesha's Coffee Shop.csproj.AssemblyReference.cache
+D:\COMPUTER SCIENCE\PD\Done\Tesha's Coffee Shop\obj\Debug\Tesha's Coffee Shop.csproj.SuggestedBindingRedirects.cache
+D:\COMPUTER SCIENCE\PD\Done\Tesha's Coffee Shop\obj\Debug\Tesha's Coffee Shop.csproj.CoreCompileInputs.cache
+D:\COMPUTER SCIENCE\PD\Done\Tesha's Coffee Shop\obj\Debug\Tesha's Coffee Shop.exe
+D:\COMPUTER SCIENCE\PD\Done\Tesha's Coffee Shop\obj\Debug\Tesha's Coffee Shop.pdb
+D:\COMPUTER SCIENCE\PD\Assignemnt\Coffee Shop\Tesha's Coffee Shop\bin\Debug\Tesha's Coffee Shop.exe.config
+D:\COMPUTER SCIENCE\PD\Assignemnt\Coffee Shop\Tesha's Coffee Shop\bin\Debug\Tesha's Coffee Shop.exe
+D:\COMPUTER SCIENCE\PD\Assignemnt\Coffee Shop\Tesha's Coffee Shop\bin\Debug\Tesha's Coffee Shop.pdb
+D:\COMPUTER SCIENCE\PD\Assignemnt\Coffee Shop\Tesha's Coffee Shop\obj\Debug\Tesha's Coffee Shop.csproj.AssemblyReference.cache
+D:\COMPUTER SCIENCE\PD\Assignemnt\Coffee Shop\Tesha's Coffee Shop\obj\Debug\Tesha's Coffee Shop.csproj.SuggestedBindingRedirects.cache
+D:\COMPUTER SCIENCE\PD\Assignemnt\Coffee Shop\Tesha's Coffee Shop\obj\Debug\Tesha's Coffee Shop.csproj.CoreCompileInputs.cache
+D:\COMPUTER SCIENCE\PD\Assignemnt\Coffee Shop\Tesha's Coffee Shop\obj\Debug\Tesha's Coffee Shop.exe
+D:\COMPUTER SCIENCE\PD\Assignemnt\Coffee Shop\Tesha's Coffee Shop\obj\Debug\Tesha's Coffee Shop.pdb

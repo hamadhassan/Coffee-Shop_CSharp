@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="Tesha_s_Coffee_Shop.UL.CoffeeShopUL">
+    <Position X="2.25" Y="1.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAAAAAgAAAIIBBACAk=</HashCode>
+      <FileName>UL\CoffeeShopUL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tesha_s_Coffee_Shop.UL.MiscUL">
+    <Position X="5" Y="1.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQEABAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UL\MiscUL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
