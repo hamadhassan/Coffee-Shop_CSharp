@@ -32,3 +32,24 @@
 ![dl](https://user-images.githubusercontent.com/96945594/180646704-a8252f6d-5ef5-4769-9f29-42a89a22b6c7.JPG)
 #### User Interfaces Layer
 ![ul](https://user-images.githubusercontent.com/96945594/180646707-532544ba-aeee-47ae-8194-f05bf51fcac0.JPG)
+
+
+## Sequence Diagram
+### Main
+![0 Main Starting](https://user-images.githubusercontent.com/96945594/180646551-250a81aa-f29b-4026-a0a6-6a581f820abf.png)
+### Add menu item
+![1  Add menu item](https://user-images.githubusercontent.com/96945594/180646553-7f781d53-5caa-4944-9bba-15788fc80012.jpg)
+### View the cheapest item in the menu
+![2  View the cheapest item in the menu](https://user-images.githubusercontent.com/96945594/180646554-6bf564c4-f8c3-4742-9267-ed5d540ba44b.jpg)
+### View the drink's menu
+![3  View the drink's menu](https://user-images.githubusercontent.com/96945594/180646525-b53c2293-b988-49d9-b081-0a79c1214f23.png)
+### View the food menu
+![4  View the food menu](https://user-images.githubusercontent.com/96945594/180646527-6c7d813f-4e65-4fa0-b29c-9037cd1da914.jpg)
+### Add order
+![5  add order](https://user-images.githubusercontent.com/96945594/180646529-e2dba227-fa5b-40f4-98bf-9077007997c8.png)
+###  Full-fil the order
+![6  Full Fil the order](https://user-images.githubusercontent.com/96945594/180646532-bfadf7ba-879f-4378-8fc6-560996eb223c.jpg)
+### View the order list
+![7  View the order list](https://user-images.githubusercontent.com/96945594/180646547-69d4759f-d316-4283-86c4-baef373973c0.jpg)
+### Total payable amount
+![8  Total payable amount](https://user-images.githubusercontent.com/96945594/180646550-36b5f48f-47df-416a-aff7-2e60907ed02a.jpg)
