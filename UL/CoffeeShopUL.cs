@@ -28,22 +28,24 @@ namespace Tesha_s_Coffee_Shop.UL
         {
             Console.WriteLine("Cheapest Item is "+iteam);
         }
+        private static int d = 1;
         public static void viewDrinkMenu(List<string> drinkMenu)
         {
-            int x = 1;
+            Console.WriteLine("Dink Menu Items are...");
             foreach(string drink in drinkMenu)
             {
-                Console.WriteLine("Dink Menu Items are...");
-                Console.WriteLine(x+". "+drink);
+                Console.WriteLine(d + ". "+drink);
+                d++;
             }
         }
-        public static void viewFoodMenu(List<string> drinkMenu)
+        private static int f = 1;
+        public static void viewFoodMenu(List<string> foodMenu)
         {
-            int x = 1;
-            foreach (string drink in drinkMenu)
+            Console.WriteLine("Food Menu Items are...");
+            foreach (string food in foodMenu)
             {
-                Console.WriteLine("Food Menu Items are...");
-                Console.WriteLine(x + ". " + drink);
+                Console.WriteLine(f + ". " + food);
+                f++;
             }
         }
         public static void viewShopMenu()

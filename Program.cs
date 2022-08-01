@@ -17,10 +17,10 @@ namespace Tesha_s_Coffee_Shop
             string orderPath = "order.txt";
             string shopName=MiscUL.getCoffeeShopName();
             Console.Clear();
+            CoffeeShopDL.readFromFileCoffeeShop(coffeeShopPath);
+            CoffeeShopDL.readFromFileOrderList(orderPath);
             while (true)
             {
-                CoffeeShopDL.readFromFileCoffeeShop(coffeeShopPath);
-                CoffeeShopDL.readFromFileOrderList(orderPath);
                 MiscUL.header(shopName);
                 char option = MiscUL.mainMenu();
                 if (option == '1')
