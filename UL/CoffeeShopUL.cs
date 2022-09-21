@@ -17,7 +17,7 @@ namespace Tesha_s_Coffee_Shop.UL
             float price;
             Console.Write("Enter name of item: ");
             name =Console.ReadLine();
-            Console.Write("Enter type of item: ");
+            Console.Write("Enter type of item (food or drink ): ");
             type = Console.ReadLine();
             Console.Write("Enter price of item: ");
             price =float.Parse(Console.ReadLine());

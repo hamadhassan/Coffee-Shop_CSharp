@@ -2,3 +2,5 @@ Vanill Latte,drink,300
 Caffe Mocha,drink,300
 cake pops,food,130
 1,1,1
+glaze,food,100
+pizza,food,200

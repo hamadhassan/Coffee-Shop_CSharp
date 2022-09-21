@@ -51,12 +51,13 @@ namespace Tesha_s_Coffee_Shop
                     CoffeeShopUL.viewShopMenu();
                     string orderName=CoffeeShopUL.getOrder();
                     CoffeeShopDL.setIntoOrderList(orderName);
-                    CoffeeShopDL.storeintoFileOrderList(orderPath, orderName);
+                    CoffeeShopDL.storeintoFileOrderList(orderPath);
                 }
                 else if (option == '6')
                 {
                     string orderStatus = CoffeeShop.fullFillOrder();
-                   CoffeeShopUL.viewFullFillOrder(orderStatus);
+                    CoffeeShopUL.viewFullFillOrder(orderStatus);
+                    CoffeeShopDL.storeintoFileOrderList(orderPath);
                 }
                 else if (option == '7')
                 {

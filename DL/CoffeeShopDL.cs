@@ -10,14 +10,17 @@ namespace Tesha_s_Coffee_Shop.DL
     internal class CoffeeShopDL
     {
         static public List<MenuItem> menuList = new List<MenuItem>();
-        static public List<string> orders = new List<string>();
+        private static List<string> orders = new List<string>();
+
+        public static List<string> Orders { get => orders; set => orders = value; }
+
         static public void setIntoMenuList(MenuItem storeConsoleInput)
         {
             menuList.Add(storeConsoleInput);
         }
         static public void setIntoOrderList(string storeConsoleInput)
         {
-            orders.Add(storeConsoleInput);
+            Orders.Add(storeConsoleInput);
         }
         public static void storeintoFileCoffeeShop(string path, MenuItem m)
         {
@@ -44,12 +47,16 @@ namespace Tesha_s_Coffee_Shop.DL
                 f.Close();
             }
         }
-        public static void storeintoFileOrderList(string path, string orderName)
+        public static void storeintoFileOrderList(string path)
         {
-            StreamWriter f = new StreamWriter(path, true);
-            f.WriteLine(orderName);
-            f.Flush();
-            f.Close();
+            foreach(string orderName in orders)
+            {
+                StreamWriter f = new StreamWriter(path, true);
+                f.WriteLine(orderName);
+                f.Flush();
+                f.Close();
+            }
+           
         }
         public static void readFromFileOrderList(string path)
         {

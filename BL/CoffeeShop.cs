@@ -41,12 +41,12 @@ namespace Tesha_s_Coffee_Shop.BL
         public static string fullFillOrder()
         {
             string message = "";
-            for (int i = 0; i < CoffeeShopDL.orders.Count; i++)
+            for (int i = 0; i < CoffeeShopDL.Orders.Count; i++)
             {
-                if (CoffeeShopDL.orders!= null)
+                if (CoffeeShopDL.Orders!= null)
                 {
-                    message = "The " + CoffeeShopDL.orders[i] + " is ready";
-                    CoffeeShopDL.orders.Clear();
+                    message = "The " + CoffeeShopDL.Orders[i] + " is ready";
+                    CoffeeShopDL.Orders.Clear();
                     return message;
                 }
             }
@@ -54,21 +54,18 @@ namespace Tesha_s_Coffee_Shop.BL
         }
         public static List<string> listOrders()
         {
-            if (CoffeeShopDL.orders == null)
+            if (CoffeeShopDL.Orders != null)
             {
-                return null;
+                return CoffeeShopDL.Orders;
             }
-            else
-            {
-                return CoffeeShopDL.orders;
-            }
+            return null;
         }
         public static float dueAmount()
         {
             float payableAmount = 0;
             foreach(MenuItem m in CoffeeShopDL.menuList)
             {
-                foreach(string o in CoffeeShopDL.orders)
+                foreach(string o in CoffeeShopDL.Orders)
                 {
                     if (m.getMenuName() == o)
                     {
